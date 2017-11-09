@@ -1,0 +1,6 @@
+Game:(Super Mario 64) System:(Nintendo 64) Rating:(E)
+Game:(Halo) System: (xbox one) Rating:(M)
+Game:(God of War) System:(Playstation 4) Rating:(M)
+Game:Pokemon red version
+Game:Legend of zelda
+Game:Call of Duty
